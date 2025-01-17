@@ -1,4 +1,4 @@
-# Constanza Muñoz - Perfil Técnico
+# Constanza Muñoz 
 
 ## Sobre Mí
 Soy **Constanza Muñoz**, una apasionada de la tecnología con un interés profundo en el desarrollo de software y el soporte de TI. Desde temprana edad, me atrajeron los videojuegos y las computadoras, lo que me llevó a especializarme en el ámbito del software, dejando de lado la parte física de los equipos. Mi enfoque profesional se centra en el soporte de aplicaciones, la gestión de bases de datos y el desarrollo de software.
