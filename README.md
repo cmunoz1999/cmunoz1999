@@ -38,7 +38,7 @@ Estoy abierta a discutir posibles colaboraciones, proyectos o oportunidades en d
 
 ---
 
-Gracias por revisar mi perfil  ¡Conectemos para construir soluciones innovadoras!
+Gracias por revisar mi perfil!
 
 
 <!--
